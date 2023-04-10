@@ -10,3 +10,8 @@ public :
 		cout << "\nNama = " << nama;
 	}
 };
+
+class MataKuliah {
+private :
+
+};
